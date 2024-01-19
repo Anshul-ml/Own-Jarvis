@@ -1,0 +1,8 @@
+OpenAI response for Prompt: using AI what is Deep learning 
+ *************************
+
+Deep learning is a subset of machine learning that focuses on training and learning from vast amounts of data to make accurate predictions or decisions. It is inspired by the structure and function of the human brain, known as artificial neural networks, which are composed of many interconnected layers of artificial neurons. 
+
+Deep learning models learn to extract high-level features through multiple layers of abstraction in these neural networks. This architecture allows deep learning algorithms to automatically learn and understand complex patterns and relationships in the data, enabling them to make accurate predictions or classifications on new, unseen data. 
+
+Deep learning has achieved remarkable success in various fields such as computer vision, natural language processing, speech recognition, and recommendation systems. It has powered advancements like autonomous vehicles, image and speech recognition software, and intelligent virtual assistants.
